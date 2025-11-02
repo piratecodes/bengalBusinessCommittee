@@ -22,8 +22,9 @@ function Footer(){
                 {[
                   ['Services', '#services'],
                   ['Process', '#process'],
-                  ['BBCVines', '#blog'],
                   ['Contact', '#contact'],
+                  ['Privacy Policy', '/privacy-policy'],
+                  ['Terms & Condition', '/terms-and-condition'],
                 ].map(([title, url]) => (
                   <a
                     key={title}

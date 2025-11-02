@@ -65,10 +65,10 @@ function Nav(){
             {/* Nav Links (Desktop) */}
             <div className="hidden md:flex items-center space-x-6">
               {[
-                ['Home', '#home'],
-                ['Services', '#services'],
-                ['Our Process', '#process'],
-                ['Contact', '#contact'],
+                ['Home', '/#home'],
+                ['Services', '/#services'],
+                ['Our Process', '/#process'],
+                ['Contact', '/contact'],
               ].map(([title, url]) => (
                 <Link
                   key={title}

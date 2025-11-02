@@ -31,10 +31,10 @@ function Header(){
             <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-indigo-800/50 rounded-full filter blur-3xl opacity-30 animate-pulse animation-delay-4000"></div>
           </div> */}
           <div className='absolute inset-0 z-0'>
-            <LiquidEther colors={[ '#5227FF', '#FF9FFC', '#B19EEF' ]} mouseForce={20} cursorSize={100} isViscous={false} viscous={30} iterationsViscous={32} iterationsPoisson={32} resolution={0.5} isBounce={false} autoDemo={true} autoSpeed={0.5} autoIntensity={2.2} takeoverDuration={0.25} autoResumeDelay={3000} autoRampDuration={0.6} />
+            <LiquidEther colors={[ '#5227FF', '#FF9FFC', '#B19EEF' ]} mouseForce={30} cursorSize={100} isViscous={false} viscous={30} iterationsViscous={32} iterationsPoisson={32} resolution={0.5} isBounce={false} autoDemo={true} autoSpeed={0.5} autoIntensity={2.2} takeoverDuration={0.25} autoResumeDelay={3000} autoRampDuration={0.6} />
           </div>
 
-          <div className="relative z-10 max-w-8xl mx-auto px-6">
+          <div className="relative z-10 max-w-8xl mx-auto px-6 ">
             <motion.h1
               className="text-5xl md:text-7xl lg:text-8xl font-extrabold text-stone-700 tracking-tighter"
               initial={{ opacity: 0, y: 50 }}
