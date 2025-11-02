@@ -18,7 +18,7 @@ export const metadata = {
     template: "%s | BBC - Bengal Business Committee",
     default: "BBC - Bengal Business Committee",
   },
-  description: "A modern twist on a beloved classic. Our Chocolate Hazelnut Baklava features layers of crispy phyllo, a fragrant blend of cinnamon and walnuts, all enveloped",
+  description: "We're not just another agency. We're a committee of Bengal's top tech and marketing experts with a single mission: to provide local businesses with the world-class tools they need to win. We believe in execution over talk, and partnership over contracts.",
   canonical: "https://staging.straxcel.com/",
   sitename: "Yia Yia's Baklava",
   openGraph: {
@@ -26,7 +26,7 @@ export const metadata = {
     title: "BBC - Bengal Business Committee",
     type: 'website',
     siteName: "BBC - Bengal Business Committee",
-    description: 'A modern twist on a beloved classic. Our Chocolate Hazelnut Baklava features layers of crispy phyllo, a fragrant blend of cinnamon and walnuts, all enveloped',
+    description: "We're not just another agency. We're a committee of Bengal's top tech and marketing experts with a single mission: to provide local businesses with the world-class tools they need to win. We believe in execution over talk, and partnership over contracts.",
     images: [
       {url: "https://staging.straxcel.com/32x32.webp", alt: "straxcel | Logo", type: 'image/webp', sizes:"32x32", fetchPriority: "auto"},
       {url: "https://staging.straxcel.com/192x192.webp", alt: "straxcel | Logo", type: 'image/webp', sizes:"192x192", fetchPriority: "auto"}
@@ -35,8 +35,8 @@ export const metadata = {
   twitter:{
     card: "BBC - Bengal Business Committee",
     title: "BBC - Bengal Business Committee",
-    creator: "Yia Yia's Baklava",
-    description: 'A modern twist on a beloved classic. Our Chocolate Hazelnut Baklava features layers of crispy phyllo, a fragrant blend of cinnamon and walnuts, all enveloped',
+    creator: "Subham Sarkar",
+    description: "We're not just another agency. We're a committee of Bengal's top tech and marketing experts with a single mission: to provide local businesses with the world-class tools they need to win. We believe in execution over talk, and partnership over contracts.",
     images: [
       {url: "https://staging.straxcel.com/32x32.webp", alt: "straxcel | Logo", type: 'image/webp', sizes:"32x32", fetchPriority: "auto"},
       {url: "https://staging.straxcel.com/192x192.webp", alt: "straxcel | Logo", type: 'image/webp', sizes:"192x192", fetchPriority: "auto"}
