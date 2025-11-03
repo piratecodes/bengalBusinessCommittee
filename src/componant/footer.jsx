@@ -20,9 +20,9 @@ function Footer(){
               </div>
               <div className="flex space-x-6 mt-4 md:mt-0">
                 {[
-                  ['Services', '#services'],
-                  ['Process', '#process'],
-                  ['Contact', '#contact'],
+                  ['Services', '/#services'],
+                  ['Process', '/#process'],
+                  ['Contact', '/#contact'],
                   ['Privacy Policy', '/privacy-policy'],
                   ['Terms & Condition', '/terms-and-condition'],
                 ].map(([title, url]) => (
